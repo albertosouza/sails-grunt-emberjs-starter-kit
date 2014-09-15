@@ -1,0 +1,30 @@
+{
+  "name": "sails-grunt-emberjs-starter-kit",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests",
+    "assets/bower_components"
+  ],
+  "dependencies": {
+    "ember": "~1.7.0",
+    "ember-data": "~0.0.14",
+    "handlebars": "~2.0.0",
+    "ember-data-sails-adapter": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  },
+  "license": "MIT",
+  "author": [
+    "Alberto Souza <alberto.souza.99@gmail.com>"
+  ],
+  "devDependencies": {},
+  "resolutions": {
+    "ember": "~1.7.0",
+    "handlebars": ">= 1.0.0 < 2.0.0",
+    "ember-data": "~1.0.0-beta.9"
+  }
+}
